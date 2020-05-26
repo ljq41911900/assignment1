@@ -1,0 +1,50 @@
+{
+  "error1" : {
+    "content" : "Wrong username or password"
+  },
+  "error2" : {
+    "content" : "User has been locked"
+  },
+“addSuccess”: {
+"content" : add success
+},
+"addFailed" : {
+    "content" : "add Failed"
+  },
+  "registerSuccess" : {
+    "content" : "Register Success"
+  },
+  "registerFailed" : {
+    "content" : "Register Failed"
+  },
+  "addAddressSuccess" : {
+    "content" : "Add New Address Success"
+  },
+  "addAddressFailed" : {
+    "content" : "Add New Address Failed"
+  },
+  "addPaymentSuccess" : {
+    "content" : "Add New Payment Method Success"
+  },
+  "addPaymentFailed" : {
+    "content" : "Add New Payment Method Failed"
+  },
+  "addressUpdateSuccess" : {
+    "content" : "Update Address Information Success"
+  },
+  "addressUpdateFailed" : {
+    "content" : "Update Address Information Failed"
+  },
+  "paymentUpdateSuccess" : {
+    "content" : "Update Payment Method Success"
+  },
+  "paymentUpdateFailed" : {
+    "content" : "Update Payment Method Failed"
+  },
+  "orderSuccess" : {
+    "content" : "Order Diary Success"
+  },
+  "orderFailed" : {
+    "content" : "Order Diary Failed"
+  }
+}
